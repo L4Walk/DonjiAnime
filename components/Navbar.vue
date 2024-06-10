@@ -6,7 +6,7 @@
             isActive('/')
               ? 'text-gray-800 transition-colors duration-300 transform dark:text-gray-200 border-b-2 border-white-500 mx-1.5 sm:mx-6'
               : 'border-transparent hover:text-gray-800 dark:hover:text-gray-200 hover:border-blue-500',
-            'transition-colors duration-300 transform mx-1.5 sm:mx-6',
+            'transition-colors duration-300 transform mx-1.5 sm:mx-6  text-sm lg:text-3xl',
           ]"
            href="/">
           Home
@@ -16,7 +16,7 @@
             isActive('/about')
               ? 'text-gray-800 transition-colors duration-300 transform dark:text-gray-200 border-b-2 border-white-500 mx-1.5 sm:mx-6'
               : 'border-transparent hover:text-gray-800 dark:hover:text-gray-200 hover:border-blue-500',
-            'transition-colors duration-300 transform mx-1.5 sm:mx-6',
+            'transition-colors duration-300 transform mx-1.5 sm:mx-6 text-sm lg:text-3xl',
           ]"
            href="/about">
           About Us
@@ -26,7 +26,7 @@
             isActive('/products')
               ? 'text-gray-800 transition-colors duration-300 transform dark:text-gray-200 border-b-2 border-white-500 mx-1.5 sm:mx-6'
               : 'border-transparent hover:text-gray-800 dark:hover:text-gray-200 hover:border-blue-500',
-            'transition-colors duration-300 transform mx-1.5 sm:mx-6',
+            'transition-colors duration-300 transform mx-1.5 sm:mx-6 text-sm lg:text-3xl',
           ]"
            href="/products">
           Products
@@ -36,7 +36,7 @@
             isActive('/store')
               ? 'text-gray-800 transition-colors duration-300 transform dark:text-gray-200 border-b-2 border-white-500 mx-1.5 sm:mx-6'
               : 'border-transparent hover:text-gray-800 dark:hover:text-gray-200 hover:border-blue-500',
-            'transition-colors duration-300 transform mx-1.5 sm:mx-6',
+            'transition-colors duration-300 transform mx-1.5 sm:mx-6 text-sm lg:text-3xl',
           ]"
            href="/store">
           Online Store
@@ -46,7 +46,7 @@
             isActive('/contact')
               ? 'text-gray-800 transition-colors duration-300 transform dark:text-gray-200 border-b-2 border-white-500 mx-1.5 sm:mx-6'
               : 'border-transparent hover:text-gray-800 dark:hover:text-gray-200 hover:border-blue-500',
-            'transition-colors duration-300 transform mx-1.5 sm:mx-6',
+            'transition-colors duration-300 transform mx-1.5 sm:mx-6 text-sm lg:text-3xl',
           ]"
            href="/contact">
           Contact Us
