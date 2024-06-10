@@ -2,7 +2,10 @@
   <div class="w-full bg-center bg-cover h-screen shadow dark:bg-customRed">
     <div class="flex items-center justify-center w-full h-full">
       <div class="text-center">
-        <h1 class="text-4xl font-semibold text-white lg:text-9xl relative w-[max-content] font-mono before:absolute before:inset-0 before:animate-typewriter before:bg-customRed">Donji Anime</h1>
+        <h1 class="text-4xl  text-center font-semibold text-white lg:text-9xl ">Donji Anime</h1>
+        <!--
+        <h1 class="text-4xl  text-center font-semibold text-white lg:text-9xl relative w-[max-content] font-mono before:absolute before:inset-0 before:animate-typewriter before:bg-customRed">Donji Anime</h1>
+        -->
         <button class="w-full px-5 py-2 mt-4 text-3xl font-medium text-white capitalize transition-colors duration-300 ">The Passion of Anime is at your fingertips</button>
       </div>
     </div>
