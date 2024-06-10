@@ -13,7 +13,7 @@
           <!--Coopertaion-->
           <div class="text-center py-10">
 
-            <h1 class="mt-2 text-2xl font-semibold text-gray-800 md:text-6xl dark:text-customRed">Coopertaion</h1>
+            <h1 class="mt-2 text-2xl font-semibold text-gray-800 md:text-6xl dark:text-customRed">Cooperation</h1>
 
           </div>
 
@@ -22,7 +22,7 @@
 
               <h2 class="mt-4 text-xl lg:text-5xl font-semibold text-gray-800 dark:text-black">Noah Zhang</h2>
               <a href="mailto:noahzzz0214@gmial.com"
-                 class="mt-2 text-lg font-semibold lg:text-2xl text-red-500 dark:text-red-400">noahzzz0214@gmial.com
+                 class="mt-2 text-lg font-semibold lg:text-2xl text-red-500 dark:text-red-400">noahzzz0214@gmail.com
               </a>
             </div>
 
